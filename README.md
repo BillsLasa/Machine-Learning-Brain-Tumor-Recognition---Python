@@ -8,7 +8,7 @@ This repository stores the code responsible for training and validating a machin
 
 ## Folders description 📁
 
-* **[Modelo]**: This folder contains the Matlab code that simulates a DC motor as a reference model to which the motor should be adapted when the inertia varies. The folder stores the matlab code and the simulink file with the mathematical model of the motor.
+* **[Model_Training]**: This folder contains the Matlab code that simulates a DC motor as a reference model to which the motor should be adapted when the inertia varies. The folder stores the matlab code and the simulink file with the mathematical model of the motor.
 
 * **[Etapa2-Obtencion_Dataset]**: This folder contains the Matlab code that obtains data from 2000 mathematical models of DC motors built in simulink that differ by a small variation in inertia. 
 
