@@ -1,5 +1,5 @@
 # Machine Learning Brain Tumor Recognition - Python
-This repository stores the code responsible for training and validating a machine learning model to recognize brain tumors in MRI scans. In addition to the graphical user interface that uses this artificial intelligence model to show the user if there is a tumor or not, in addition to showing a possible location in one of the lobes of the brain.
+This repository stores the code responsible for training and validating a machine learning model to recognize brain tumors in MRI (magnetic resonance imaging) scans. In addition to the graphical user interface that uses this artificial intelligence model to show the user if there is a tumor or not, in addition to showing a possible location in one of the lobes of the brain.
 
 ## Author 👤
 **Luis Ángel Sánchez Aguilar**
@@ -18,7 +18,7 @@ This repository stores the code responsible for training and validating a machin
 
 * **[Diagnóstico Hemorragia - BOSQUE ALEATORIO (MACHINE LEARNING).ipynb]**: This file contains the code documented in a notebook using google colab that trains and validates the Random Forest machine learning model to recognize the tumor.
 
-* **[Diagnóstico Hemorragia - BOSQUE ALEATORIO (MACHINE LEARNING).ipynb]**: This file contains the code documented in a notebook using google colab that trains and validates the Random Forest machine learning model to recognize the tumor.
+* **[GUI_ProyectoFinal_PDI.py]**: This file consists of the Python code that makes up the graphical user interface that will show whether or not there is a tumor in an MRI. It also contains the localization algorithm to indicate the lobe closest to the tumor.
 
 ## Screenshots 📷
 ![image](https://user-images.githubusercontent.com/118120048/203473828-05e3a774-e46b-4f84-85dd-5f1474cd7a00.png)
