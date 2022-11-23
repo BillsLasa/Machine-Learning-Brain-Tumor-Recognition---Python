@@ -8,9 +8,9 @@ This repository stores the code responsible for training and validating a machin
 
 ## Folders description 📁
 
-* **[Model_Training]**: This folder contains the Matlab code that simulates a DC motor as a reference model to which the motor should be adapted when the inertia varies. The folder stores the matlab code and the simulink file with the mathematical model of the motor.
+* **[Model_Training]**: This folder contains all the Python code files and notebooks where a machine learning model, specifically the random forest algorithm, was trained and validated.
 
-* **[Etapa2-Obtencion_Dataset]**: This folder contains the Matlab code that obtains data from 2000 mathematical models of DC motors built in simulink that differ by a small variation in inertia. 
+* **[GUI]**: This folder contains all the Python code files and images that make up the graphical user interface that will show the user whether or not there is a tumor in an magnetic resonance imaging. It also contains the code that locates the tumor in the corresponding lobe.
 
 ## Main Files description 📘
 
