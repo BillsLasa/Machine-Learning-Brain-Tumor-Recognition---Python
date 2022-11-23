@@ -14,9 +14,11 @@ This repository stores the code responsible for training and validating a machin
 
 ## Main Files description 📘
 
-* **[Identificación de muestras - Obtención de Datos.ipynb]**: This file contains the code documented in a notebook using google colab that extracts the necessary features to train and validate the KNN machine learning model by differentiating between one type of sample and another.
+* **[Diagnóstico Hemorragia - OBTENCIÓN DE DATOS.ipynb]**: This file contains the code documented in a notebook using google colab that extracts the magnetic resonance imaging's necessary features to train and validate the Random Forest machine learning model.
 
-* **[Identificación de muestras - K Nearest Neighbors (Machine Learning).ipynb]**: This file contains the code documented in a notebook using google colab that trains and validates the KNN machine learning model to classify laboratory samples.
+* **[Diagnóstico Hemorragia - BOSQUE ALEATORIO (MACHINE LEARNING).ipynb]**: This file contains the code documented in a notebook using google colab that trains and validates the Random Forest machine learning model to recognize the tumor.
+
+* **[Diagnóstico Hemorragia - BOSQUE ALEATORIO (MACHINE LEARNING).ipynb]**: This file contains the code documented in a notebook using google colab that trains and validates the Random Forest machine learning model to recognize the tumor.
 
 ## Screenshots 📷
 ![image](https://user-images.githubusercontent.com/118120048/203473828-05e3a774-e46b-4f84-85dd-5f1474cd7a00.png)
